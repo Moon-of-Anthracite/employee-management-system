@@ -32,8 +32,8 @@ These issues are related to the backend as well as the frontend. I'll discribe t
 - I corrected my mistake after figuring out what I was doing wrong following some trial and error and promptly finished working on the views.
 - Since, I hadn't connected the templates to the database or defined a contrroller class, I still had more work left as I couldn't test some features/actions.
 - So, I started working on the controller class after defining the application properties while simultaneously aiming to finish the templates.
-- The controller class was rather easy to define as there weren't many pages or actions to consider, instead the main problem was with the templates.
-- I couldn't figure out a way to implement the Serial Number column by myself without using ID which obviously didn't work as intended.
+- After defining the controller class there weren't many pages or actions to consider, instead problems arose in the templates.
+- I couldn't figure out a way to implement the Serial Number column without using ID which obviously didn't work as I intended.
 - I had to refer to the Thymeleaf Tutorial to understand how to call Iterator Status variable and use the Count property to properly display the Serial Number.
 
 ## Conclusion
