@@ -19,3 +19,7 @@ A sample project developed while learning the basics of Spring Framework &amp; T
 - The Add Employees view is used to add employees to the database one at a time. It redirects to the Employee List.
 - Along with being used for adding new employees to database, the same layout is also used to edit employees.
 ![Add Employee Page](https://github.com/user-attachments/assets/4488c5e7-5811-45cb-b53c-6e238594835a)
+
+### Skills Highlighted
+- Implementing Bootstrap CSS & JavaScript through CDN Links.
+- Implementing Thymeleaf Template Engine in HTML Templates.
